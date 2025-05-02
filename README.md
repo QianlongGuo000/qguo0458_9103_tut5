@@ -7,3 +7,4 @@ _Italic Text_
 123
 [Link Text](https://www.google.com)
 ![An image of a cat](https://placecats.com/200/300)
+![An image of the Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
